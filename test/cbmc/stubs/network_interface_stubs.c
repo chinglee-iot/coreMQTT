@@ -1,5 +1,5 @@
 /*
- * coreMQTT v2.3.0
+ * coreMQTT v8.8.5
  * Copyright (C) 2020 Amazon.com, Inc. or its affiliates.  All Rights Reserved.
  *
  * SPDX-License-Identifier: MIT
