@@ -1,6 +1,8 @@
 {
   "name": "coreMQTT",
-  "releases": [],
+  "releases": [
+    "v8.8.9"
+  ],
   "branches": [
     "main"
   ]
